@@ -1,0 +1,7 @@
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\TesteExercicios\bin\Debug\TesteExercicios.exe.config
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\TesteExercicios\bin\Debug\TesteExercicios.exe
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\TesteExercicios\bin\Debug\TesteExercicios.pdb
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\TesteExercicios\obj\Debug\TesteExercicios.csproj.CoreCompileInputs.cache
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\TesteExercicios\obj\Debug\TesteExercicios.exe
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\TesteExercicios\obj\Debug\TesteExercicios.pdb
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\TesteExercicios\obj\Debug\TesteExercicios.csprojAssemblyReference.cache

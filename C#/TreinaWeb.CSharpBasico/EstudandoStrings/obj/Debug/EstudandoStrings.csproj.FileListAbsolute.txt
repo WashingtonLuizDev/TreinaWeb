@@ -1,0 +1,7 @@
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudandoStrings\bin\Debug\EstudandoStrings.exe.config
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudandoStrings\bin\Debug\EstudandoStrings.exe
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudandoStrings\bin\Debug\EstudandoStrings.pdb
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudandoStrings\obj\Debug\EstudandoStrings.csprojAssemblyReference.cache
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudandoStrings\obj\Debug\EstudandoStrings.csproj.CoreCompileInputs.cache
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudandoStrings\obj\Debug\EstudandoStrings.exe
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudandoStrings\obj\Debug\EstudandoStrings.pdb

@@ -1,0 +1,7 @@
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoCollections\bin\Debug\EstudoCollections.exe.config
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoCollections\bin\Debug\EstudoCollections.exe
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoCollections\bin\Debug\EstudoCollections.pdb
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoCollections\obj\Debug\EstudoCollections.csprojAssemblyReference.cache
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoCollections\obj\Debug\EstudoCollections.csproj.CoreCompileInputs.cache
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoCollections\obj\Debug\EstudoCollections.exe
+D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoCollections\obj\Debug\EstudoCollections.pdb
