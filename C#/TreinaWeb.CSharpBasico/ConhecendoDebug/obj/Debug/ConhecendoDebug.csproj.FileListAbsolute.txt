@@ -1,7 +1,0 @@
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\ConhecendoDebug\bin\Debug\ConhecendoDebug.exe.config
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\ConhecendoDebug\bin\Debug\ConhecendoDebug.exe
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\ConhecendoDebug\bin\Debug\ConhecendoDebug.pdb
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\ConhecendoDebug\obj\Debug\ConhecendoDebug.csprojAssemblyReference.cache
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\ConhecendoDebug\obj\Debug\ConhecendoDebug.csproj.CoreCompileInputs.cache
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\ConhecendoDebug\obj\Debug\ConhecendoDebug.exe
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\ConhecendoDebug\obj\Debug\ConhecendoDebug.pdb

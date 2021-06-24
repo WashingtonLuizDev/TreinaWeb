@@ -1,7 +1,0 @@
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoVetores\bin\Debug\EstudoVetores.exe.config
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoVetores\bin\Debug\EstudoVetores.exe
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoVetores\bin\Debug\EstudoVetores.pdb
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoVetores\obj\Debug\EstudoVetores.csproj.CoreCompileInputs.cache
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoVetores\obj\Debug\EstudoVetores.exe
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoVetores\obj\Debug\EstudoVetores.pdb
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoVetores\obj\Debug\EstudoVetores.csprojAssemblyReference.cache

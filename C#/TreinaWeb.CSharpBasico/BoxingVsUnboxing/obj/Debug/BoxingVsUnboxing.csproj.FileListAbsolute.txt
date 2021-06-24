@@ -1,7 +1,0 @@
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\BoxingVsUnboxing\obj\Debug\BoxingVsUnboxing.csproj.CoreCompileInputs.cache
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\BoxingVsUnboxing\bin\Debug\BoxingVsUnboxing.exe.config
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\BoxingVsUnboxing\bin\Debug\BoxingVsUnboxing.exe
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\BoxingVsUnboxing\bin\Debug\BoxingVsUnboxing.pdb
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\BoxingVsUnboxing\obj\Debug\BoxingVsUnboxing.csprojAssemblyReference.cache
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\BoxingVsUnboxing\obj\Debug\BoxingVsUnboxing.exe
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\BoxingVsUnboxing\obj\Debug\BoxingVsUnboxing.pdb

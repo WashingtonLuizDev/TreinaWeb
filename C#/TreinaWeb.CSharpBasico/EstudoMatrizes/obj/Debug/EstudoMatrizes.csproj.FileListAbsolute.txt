@@ -1,7 +1,0 @@
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoMatrizes\obj\Debug\EstudoMatrizes.csprojAssemblyReference.cache
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoMatrizes\obj\Debug\EstudoMatrizes.csproj.CoreCompileInputs.cache
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoMatrizes\bin\Debug\EstudoMatrizes.exe.config
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoMatrizes\bin\Debug\EstudoMatrizes.exe
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoMatrizes\bin\Debug\EstudoMatrizes.pdb
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoMatrizes\obj\Debug\EstudoMatrizes.exe
-D:\Estudo\TreinaWeb\C#\TreinaWeb.CSharpBasico\EstudoMatrizes\obj\Debug\EstudoMatrizes.pdb
