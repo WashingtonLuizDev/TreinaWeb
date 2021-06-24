@@ -1,0 +1,7 @@
+D:\LabsVS\Exercicio_2\bin\Debug\Exercicio_2.exe.config
+D:\LabsVS\Exercicio_2\bin\Debug\Exercicio_2.exe
+D:\LabsVS\Exercicio_2\bin\Debug\Exercicio_2.pdb
+D:\LabsVS\Exercicio_2\obj\Debug\Exercicio_2.csprojAssemblyReference.cache
+D:\LabsVS\Exercicio_2\obj\Debug\Exercicio_2.csproj.CoreCompileInputs.cache
+D:\LabsVS\Exercicio_2\obj\Debug\Exercicio_2.exe
+D:\LabsVS\Exercicio_2\obj\Debug\Exercicio_2.pdb

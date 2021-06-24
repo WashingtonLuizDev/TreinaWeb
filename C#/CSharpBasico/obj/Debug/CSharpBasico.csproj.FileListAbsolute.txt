@@ -1,0 +1,10 @@
+D:\LabsVS\CSharpBasico\bin\Debug\CSharpBasico.exe.config
+D:\LabsVS\CSharpBasico\bin\Debug\CSharpBasico.exe
+D:\LabsVS\CSharpBasico\bin\Debug\CSharpBasico.pdb
+D:\LabsVS\CSharpBasico\obj\Debug\CSharpBasico.csprojAssemblyReference.cache
+D:\LabsVS\CSharpBasico\obj\Debug\CSharpBasico.frmAgenda.resources
+D:\LabsVS\CSharpBasico\obj\Debug\CSharpBasico.Properties.Resources.resources
+D:\LabsVS\CSharpBasico\obj\Debug\CSharpBasico.csproj.GenerateResource.cache
+D:\LabsVS\CSharpBasico\obj\Debug\CSharpBasico.csproj.CoreCompileInputs.cache
+D:\LabsVS\CSharpBasico\obj\Debug\CSharpBasico.exe
+D:\LabsVS\CSharpBasico\obj\Debug\CSharpBasico.pdb

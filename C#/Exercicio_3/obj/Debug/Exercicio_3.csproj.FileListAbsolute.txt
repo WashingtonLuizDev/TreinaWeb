@@ -1,0 +1,10 @@
+D:\LabsVS\Exercicio_3\bin\Debug\Exercicio_3.exe.config
+D:\LabsVS\Exercicio_3\bin\Debug\Exercicio_3.exe
+D:\LabsVS\Exercicio_3\bin\Debug\Exercicio_3.pdb
+D:\LabsVS\Exercicio_3\obj\Debug\Exercicio_3.frmEstoque.resources
+D:\LabsVS\Exercicio_3\obj\Debug\Exercicio_3.Properties.Resources.resources
+D:\LabsVS\Exercicio_3\obj\Debug\Exercicio_3.csproj.GenerateResource.cache
+D:\LabsVS\Exercicio_3\obj\Debug\Exercicio_3.csproj.CoreCompileInputs.cache
+D:\LabsVS\Exercicio_3\obj\Debug\Exercicio_3.exe
+D:\LabsVS\Exercicio_3\obj\Debug\Exercicio_3.pdb
+D:\LabsVS\Exercicio_3\obj\Debug\Exercicio_3.csproj.AssemblyReference.cache
