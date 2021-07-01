@@ -13,9 +13,10 @@
   </ul>
   <p>Projeto Final: <a href="https://github.com/WashingtonLuizDev/TreinaWeb/tree/master/C%23/CSharpBasico">Agenda de Contatos</a></p>
   <p><a href="https://www.treinaweb.com.br/certificado/RMOXYSWGMC1H">Certificado</a></p>
-
+</details>
   <h1 align="center">Desenvolvedor C# Pleno</h1>
   <p align="center">A formação Desenvolvedor C# nível Pleno da TreinaWeb tem um enfoque sobre a conectividade entre o .NET Framework e os bancos de dados relacionais através do ADO.NET. Também serão abordados os recursos para desenvolvedores que o Oracle e o MySQL oferecem, como functions, stored procedures e triggers.</p>
+<details>
   <h2 align="left">Máterias:</h2>
   <ul>
    <li><a href="https://www.treinaweb.com.br/curso/introducao-e-projeto-de-banco-de-dados">Projeto de Banco de dados - Fundamentos</a></li>
@@ -24,5 +25,5 @@
    <li><a href="https://www.treinaweb.com.br/curso/csharp-intermediario">C# Intermediário</a></li>
   </ul>
   <p>Projeto Final: <a href=""></a></p>
- </details>
-<p><a href="https://www.treinaweb.com.br/certificado/ZGXR7LNCLDXC">Certificado</a></p>
+  <p><a href="https://www.treinaweb.com.br/certificado/ZGXR7LNCLDXC">Certificado</a></p>
+</details>
